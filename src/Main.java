@@ -7,6 +7,8 @@ public class Main{
       System.out.println(result);
       System.out.println(x);
       System.out.println("このコードは練習用です");
+      int age = 23;
+      System.out.println(age);
 
     }
 }
