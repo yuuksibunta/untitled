@@ -6,6 +6,7 @@ public class Main{
       int result = ++x;
       System.out.println(result);
       System.out.println(x);
+      System.out.println("このコードは練習用です");
 
     }
 }
