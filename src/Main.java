@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println(x);
         System.out.println(x/2);
-        System.out.println("練習1回目の再挑戦");
+        System.out.println("練習１回目");
     }
 }
