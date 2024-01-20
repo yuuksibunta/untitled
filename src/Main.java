@@ -1,12 +1,11 @@
 
+public class Main {
+    public static void main(String[] args) {
+        int x = 19;
+        x++;
 
-public class Main{
-    public static void main(String[] args){
-      int x = 5;
-      int result = ++x;
-      System.out.println(result);
-      System.out.println(x);
-
+        System.out.println(x);
+        System.out.println(x/2);
+        System.out.println("練習１回目");
     }
 }
-
